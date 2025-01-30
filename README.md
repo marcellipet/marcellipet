@@ -25,7 +25,7 @@
 </div><br/>
 ⋆｡‧˚ʚ🍒ɞ˚‧｡⋆   
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marcellipet&layout=donut&theme=onedark)](https://github.com/marcellipet/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marcellipet&layout=donut&theme=dracula)](https://github.com/marcellipet/github-readme-stats)
 
 <section>
       <figure class="gif">
