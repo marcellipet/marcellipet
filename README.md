@@ -12,7 +12,7 @@
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](marcellipetranel@gmail.com) ˗ˏˋ ꒰ ✉︎ ꒱ ˎˊ˗
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_marcellli_/) 🧸🎀
 
-![Marcelli GitHub stats](https://github-readme-stats.vercel.app/api?username=marcellipet&show_icons=true&theme=onedark) 
+![Marcelli GitHub stats](https://github-readme-stats.vercel.app/api?username=marcellipet&show_icons=true&theme=dracula) 
 
 ### Tecnologias que mais uso (ainda estou aprendendo) ⋆⭒˚.⋆🪐 ⋆⭒˚.⋆
 ⋆｡‧˚ʚ🍓ɞ˚‧｡⋆
@@ -24,6 +24,8 @@
   <img align="center" alt="react native" src="https://img.shields.io/badge/React Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 </div><br/>
 ⋆｡‧˚ʚ🍒ɞ˚‧｡⋆   
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marcellipet&layout=donut&theme=onedark)](https://github.com/marcellipet/github-readme-stats)
 
 <section>
       <figure class="gif">
