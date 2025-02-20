@@ -1,3 +1,6 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ef476f&height=120&section=header"/>
+
+
 ### Olá, sou Marcelli Petranela 🌷˚.🎀༘⋆
 (*ᴗ͈ˬᴗ͈)ꕤ*.ﾟ✩₊˚.⋆☾⋆⁺₊✧
 <br>
