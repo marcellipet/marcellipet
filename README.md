@@ -1,13 +1,13 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff7096&height=110&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff7096&size=35&center=true&vCenter=true&width=1000&lines=HII🌷˚.🎀༘⋆,+MY+NAME+is+Marcelli+Petranela+;Eventually+I'm+17+years+old;I+love+study+and+I+try+to+do+my+best!!;Be+Welcome!+(*ᴗ͈ˬᴗ͈)ꕤ*.ﾟ✩₊˚.⋆☾⋆⁺₊✧:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff7096&size=35&center=true&vCenter=true&width=1000&lines=HII🌷˚.🎀༘⋆,+MY+NAME+is+Marcelli+Petranela+;Eventually+I'm+17+years+old;I+love+study+and+I+try+to+do+my+best!!;Be+Welcome!+ꕤ*.ﾟ✩₊˚.⋆☾⋆⁺₊✧:%29)](https://git.io/typing-svg)
 
 
 
 ### Olá, sou Marcelli Petranela 🌷˚.🎀༘⋆
 
 <p>Tenho 17 anos atualmente</p>
-(*ᴗ͈ˬᴗ͈)ꕤ*.ﾟ✩₊˚.⋆☾⋆⁺₊✧
+ꕤ*.ﾟ✩₊˚.⋆☾⋆⁺₊✧
 <br>
 <section>
       <figure class="gif">
