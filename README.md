@@ -13,7 +13,7 @@
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcelli-petranela-4bbb34295/) . ₊˚ ☎︎₊˚✧ ﾟ.
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](marcellipetranel@gmail.com) ˗ˏˋ ꒰ ✉︎ ꒱ ˎˊ˗
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_marcelli_petranela__/) 🧸🎀
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/marcelli_petranela__/) 🧸🎀
 
 
 ![Marcelli GitHub stats](https://github-readme-stats.vercel.app/api?username=marcellipet&show_icons=true&theme=dracula) 
